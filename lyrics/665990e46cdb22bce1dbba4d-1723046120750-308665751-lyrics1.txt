@@ -1,0 +1,6 @@
+[00:00] .....
+[00:02] This is the first line of the song
+[00:04] This is the second line of the song
+[00:06] This is the third line of the song
+[00:08] This is the fourth line of the song
+[00:10] This is the fifth line of the song
